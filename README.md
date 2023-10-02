@@ -1,8 +1,5 @@
-# React + Vite
+###  The goal of this project is to practice testing a larger scale project with routing and API requests.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Procedures
+- Test that the filtering on the PostList page works as expected. This will require quite a bit or API mocking.
+- Test that the NewPost page works when creating a post. This again will require lots of API mocking, and will even deal with navigating to new pages.
